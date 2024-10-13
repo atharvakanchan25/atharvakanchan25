@@ -11,7 +11,7 @@
 - Artificial Intelligence from the ground up
 - Advanced algorithms and data structures
 - Python and AI-related frameworks like TensorFlow and PyTorch
-- Working on a project titled "Uniexpense: Expense management recommendations for college students"
+
 
 ## 💞️ I’m looking to collaborate on ...
 - AI and Machine Learning projects
