@@ -26,5 +26,4 @@
 ## 😄 Pronouns: ...
 - He/Him
 
-## ⚡ Fun fact: ...
-- I have a strong foundation in C, C++, and Java, and I’m always eager to explore new technologies!
+
