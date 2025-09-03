@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Atharva Kanchan  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&width=500&lines=Artificial+Intelligence+Enthusiast;Cloud+%7C+Data+Analytics+Learner;Deep+Learning+%7C+Java+Developer;Always+learning+new+things+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👀 About Me  
