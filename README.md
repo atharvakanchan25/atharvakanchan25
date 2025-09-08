@@ -11,9 +11,9 @@
 
 ## 🌱 Currently Learning  
 - 🔬 **Deep Learning**: PyTorch & TensorFlow  
-- ☁️ **AWS**: S3, Athena, Glue, EC2  
-- 📊 **BI Tools**: Power BI & Tableau  
-- 💻 **Java (Core + Advanced)**: Backend Development & Problem-Solving  
+- ☁️ **AWS**: S3, Lambda, IAM, EC2  
+- 📊 **BI Tools**: Power BI 
+- 💻 **Programming**: Java, Python, SQL
 
 ---
 
