@@ -1,38 +1,27 @@
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/e8c4f6fa-c44d-4389-996b-a58433564763)
 
-# 👋 Hi, I'm Atharva Kanchan
+# Atharva Kanchan
 
-🎓 Computer Science Engineer (B.Tech) specialized in **Artificial Intelligence & Machine Learning**
+Computer Science Engineer (B.Tech) specializing in Artificial Intelligence & Machine Learning.
 
----
+## About
 
-## 🚀 About Me
-- Focused on building intelligent systems using **Generative AI** and **Agentic AI**
-- Interested in real-world AI applications and scalable system design
-- Strong foundation in backend + AI integration
+I build intelligent systems using Generative AI and Agentic AI, with a focus on real-world applications and scalable system design. My background combines backend engineering with applied AI/ML.
 
----
+## Focus Areas
 
-## 🛠️ Tech Stack
-- 💻 Languages: **Java, Python, SQL**
-- 🤖 AI/ML: Machine Learning, Deep Learning, GenAI, Agentic AI
-- ⚙️ Tools: Automation Testing
+- AI-driven applications
+- Automation systems
+- End-to-end machine learning solutions
 
----
+## Tech Stack
 
-## 📌 What I Work On
-- AI-driven applications  
-- Automation systems  
-- End-to-end ML solutions  
+**Languages:** Java, Python, SQL
+**AI/ML:** Machine Learning, Deep Learning, Generative AI, Agentic AI
+**Tools:** Automation Testing
 
----
+## Contact
 
-## 🌐 Connect with Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/atharva-kanchan-797643271/
-- 📸 Instagram: https://www.instagram.com/atharva_kanchan_/
-- 💬 Quora: https://www.quora.com/profile/Atharva-Kanchan
-- 💻 GitHub: https://github.com/atharvakanchan25
-
----
-
-⭐ *Building intelligent systems that solve real-world problems*
+- LinkedIn: [atharva-kanchan-797643271](https://www.linkedin.com/in/atharva-kanchan-797643271/)
+- GitHub: [atharvakanchan25](https://github.com/atharvakanchan25)
+- Quora: [Atharva-Kanchan](https://www.quora.com/profile/Atharva-Kanchan)
